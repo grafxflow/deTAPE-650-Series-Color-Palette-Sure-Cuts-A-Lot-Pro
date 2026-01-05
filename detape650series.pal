@@ -1,0 +1,42 @@
+<xml version="1.0">
+
+<palette name="deTAPE Sign Vinyl 650 Series Palette" lock="true">
+<c m="rgb" r="255" g="255" b="255" n="White"/>
+<c m="rgb" r="255" g="255" b="255" n="Transparent"/>
+<c m="rgb" r="147" g="168" b="153" n="Grey"/>
+<c m="rgb" r="0" g="0" b="0" n="Black"/>
+<c m="rgb" r="128" g="20" b="20" n="Burgundy"/>
+<c m="rgb" r="179" g="13" b="13" n="Deep Red"/>
+<c m="rgb" r="216" g="1" b="0" n="Cherry"/>
+<c m="rgb" r="254" g="0" b="0" n="Light Red"/>
+<c m="rgb" r="233" g="41" b="4" n="Tomato"/>
+<c m="rgb" r="247" g="94" b="27" n="Orange"/>
+<c m="rgb" r="255" g="178" b="0" n="Golden Yellow"/>
+<c m="rgb" r="252" g="217" b="14" n="Bright Yellow"/>
+<c m="rgb" r="255" g="255" b="0" n="Lemon"/>
+<c m="rgb" r="237" g="232" b="194" n="Cream"/>
+<c m="rgb" r="137" g="212" b="21" n="Lime"/>
+<c m="rgb" r="25" g="186" b="54" n="Bright Green"/>
+<c m="rgb" r="2" g="163" b="93" n="Green"/>
+<c m="rgb" r="19" g="110" b="77" n="Dark Green"/>
+<c m="rgb" r="29" g="89" b="35" n="Forest Green"/>
+<c m="rgb" r="9" g="189" b="188" n="Teal"/>
+<c m="rgb" r="123" g="211" b="247" n="Baby Blue"/>
+<c m="rgb" r="0" g="197" b="232" n="Olympic Blue"/>
+<c m="rgb" r="3" g="146" b="206" n="Ocean Blue"/>
+<c m="rgb" r="12" g="112" b="197" n="Deep Azure Blue"/>
+<c m="rgb" r="0" g="74" b="183" n="Regal Blue"/>
+<c m="rgb" r="0" g="61" b="152" n="Cobalt Blue"/>
+<c m="rgb" r="31" g="76" b="143" n="Dark Blue"/>
+<c m="rgb" r="54" g="27" b="158" n="Purple"/>
+<c m="rgb" r="99" g="55" b="153" n="Plum"/>
+<c m="rgb" r="154" g="126" b="203" n="Lavender"/>
+<c m="rgb" r="206" g="187" b="217" n="Lilac"/>
+<c m="rgb" r="254" g="178" b="217" n="Soft Pink"/>
+<c m="rgb" r="251" g="38" b="144" n="Hot Pink"/>
+<c m="rgb" r="94" g="55" b="26" n="Brown"/>
+<c m="rgb" r="196" g="167" b="50" n="Gold"/>
+<c m="rgb" r="214" g="214" b="214" n="Silver"/>
+</palette>
+
+</xml>
