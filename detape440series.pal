@@ -1,0 +1,40 @@
+<xml version="1.0">
+
+<palette name="deTAPE Sign Vinyl 440 Series Palette" lock="true">
+<c m="rgb" r="255" g="255" b="255" n="White"/>
+<c m="rgb" r="255" g="255" b="255" n="Transparent"/>
+<c m="rgb" r="229" g="223" b="223" n="Dove Grey"/>
+<c m="rgb" r="153" g="153" b="153" n="Mild Grey"/>
+<c m="rgb" r="76" g="76" b="76" n="Anthracite"/>
+<c m="rgb" r="0" g="0" b="0" n="Black"/>
+<c m="rgb" r="102" g="14" b="13" n="Burgundy"/>
+<c m="rgb" r="176" g="4" b="4" n="Wine Red"/>
+<c m="rgb" r="214" g="8" b="8" n="Dark Red"/>
+<c m="rgb" r="239" g="9" b="9" n="Bright Red"/>
+<c m="rgb" r="254" g="56" b="45" n="Lava Red"/>
+<c m="rgb" r="255" g="113" b="47" n="Orange"/>
+<c m="rgb" r="255" g="195" b="0" n="Dark Yellow"/>
+<c m="rgb" r="254" g="225" b="0" n="Bright Yellow"/>
+<c m="rgb" r="255" g="255" b="105" n="Brimstone"/>
+<c m="rgb" r="251" g="222" b="166" n="Cream"/>
+<c m="rgb" r="147" g="230" b="88" n="Light Green"/>
+<c m="rgb" r="82" g="184" b="38" n="Grass Green"/>
+<c m="rgb" r="35" g="163" b="78" n="Green"/>
+<c m="rgb" r="5" g="120" b="77" n="Deep Green"/>
+<c m="rgb" r="38" g="89" b="46" n="Forest Green"/>
+<c m="rgb" r="9" g="121" b="133" n="Turquoise"/>
+<c m="rgb" r="23" g="188" b="171" n="Aqua"/>
+<c m="rgb" r="115" g="196" b="241" n="Arctic Blue"/>
+<c m="rgb" r="27" g="148" b="219" n="Sky Blue"/>
+<c m="rgb" r="6" g="111" b="192" n="Azure Blue"/>
+<c m="rgb" r="6" g="73" b="151" n="Traffic Blue"/>
+<c m="rgb" r="38" g="49" b="227" n="Brilliant Blue"/>
+<c m="rgb" r="2" g="13" b="155" n="Ultra Blue"/>
+<c m="rgb" r="98" g="54" b="129" n="Purple"/>
+<c m="rgb" r="250" g="29" b="96" n="Hot Pink"/>
+<c m="rgb" r="87" g="56" b="25" n="Brown"/>
+<c m="rgb" r="179" g="138" b="56" n="Gold"/>
+<c m="rgb" r="146" g="146" b="146" n="Silver"/>
+</palette>
+
+</xml>
