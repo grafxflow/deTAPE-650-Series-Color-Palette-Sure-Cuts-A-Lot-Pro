@@ -1,0 +1,36 @@
+<xml version="1.0">
+
+<palette name="deTAPE Wall Art Series Palette" lock="true">
+<c m="rgb" r="255" g="255" b="255" n="White"/>
+<c m="rgb" r="244" g="218" b="185" n="Cream"/>
+<c m="rgb" r="254" g="255" b="65" n="Lemon"/>
+<c m="rgb" r="254" g="213" b="0" n="Mild Yellow"/>
+<c m="rgb" r="253" g="195" b="0" n="Golden Yellow"/>
+<c m="rgb" r="255" g="119" b="1" n="Orange"/>
+<c m="rgb" r="253" g="65" b="2" n="Dark Orange"/>
+<c m="rgb" r="222" g="24" b="25" n="Red"/>
+<c m="rgb" r="176" g="4" b="4" n="Dark Red"/>
+<c m="rgb" r="144" g="0" b="0" n="Wine Red"/>
+<c m="rgb" r="250" g="29" b="96" n="Hot Pink"/>
+<c m="rgb" r="255" g="144" b="200" n="Bubblegum"/>
+<c m="rgb" r="94" g="201" b="255" n="Light Blue"/>
+<c m="rgb" r="6" g="107" b="197" n="Azure Blue"/>
+<c m="rgb" r="19" g="46" b="197" n="Brilliant Blue"/>
+<c m="rgb" r="3" g="33" b="119" n="Medium Blue"/>
+<c m="rgb" r="19" g="19" b="89" n="Deep Navy"/>
+<c m="rgb" r="67" g="23" b="110" n="Purple"/>
+<c m="rgb" r="103" g="254" b="173" n="Mint"/>
+<c m="rgb" r="101" g="230" b="68" n="Apple Green"/>
+<c m="rgb" r="82" g="184" b="38" n="Grass Green"/>
+<c m="rgb" r="52" g="152" b="53" n="Mild Green"/>
+<c m="rgb" r="9" g="71" b="20" n="Forest Green"/>
+<c m="rgb" r="79" g="45" b="10" n="Brown"/>
+<c m="rgb" r="229" g="223" b="223" n="Dove Grey"/>
+<c m="rgb" r="153" g="153" b="153" n="Mild Grey"/>
+<c m="rgb" r="106" g="105" b="103" n="Dark Grey"/>
+<c m="rgb" r="0" g="0" b="0" n="Black"/>
+<c m="rgb" r="146" g="146" b="156" n="Silver"/>
+<c m="rgb" r="179" g="138" b="56" n="Gold"/>
+</palette>
+
+</xml>
