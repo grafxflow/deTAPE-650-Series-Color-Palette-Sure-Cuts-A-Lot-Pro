@@ -21,3 +21,4 @@ C:\program files\craft edge\sure cuts a lot 6 pro\palettes\
 ### Versions:
 
 * 1.0.0 Initial Copy of deTAPE 650 Series color reference
+* 1.0.1 Added deTAPE 440 Series and deTAPE Wall Art Series
