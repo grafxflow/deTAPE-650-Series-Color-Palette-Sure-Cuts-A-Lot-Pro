@@ -1,6 +1,6 @@
-# deTAPE 650 Series Color Palette for Sure Cuts A Lot Pro
+# deTAPE Various Series Color Palette for Sure Cuts A Lot Pro
 
-**deTAPE** 650 Series colors reference for usage in the **Sure Cuts A Lot Pro** application.
+**deTAPE** Various Series colors reference for usage in the **Sure Cuts A Lot Pro** application.
 
 ## Install
 
